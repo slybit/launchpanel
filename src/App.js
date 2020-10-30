@@ -5,7 +5,7 @@ import { Panel } from './Panel.js'
 
 function App() {
     return (
-        <div>
+        <div id="app" className="center" style={{ "background-image": "url(./background.jpeg)" }}>
             <Panel></Panel>
         </div>
     );

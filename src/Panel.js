@@ -40,13 +40,13 @@ export class Panel extends Component {
         );
 
         return (
-            <div>
-                <div class="jumbotron">
+            <div >
+                <div className="jumbotron">
                     <h1><span class={"mdi " + this.state.icon + " h1"}></span> {this.state.title}</h1>
-                    <h5 className="text-muted">{this.state.description}</h5>
+                    <h5>{this.state.description}</h5>
                 </div>
-                <div className="container mt-4">
-                    <div className="row">
+                <div className="container mt-4" >
+                    <div className="row justify-content-center">
                         {listItems}
                     </div>
                 </div>

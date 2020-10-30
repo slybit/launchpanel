@@ -58,6 +58,174 @@
             "url": "http://portainer.nolleke.home",
             "icon": "mdi-docker",
             "color": "#A4C46A"
+        },
+        {
+            "title": "Scripts4MQTT",
+            "description": "Scripting service for MQTT",
+            "url": "http://scripts4mqtt.nolleke.home",
+            "icon": "mdi-cogs",
+            "color": "#E1A3EE"
+        },
+        {
+            "title": "MQTTBoard",
+            "description": "Simple MQTT web interface",
+            "url": "http://mqttboard.nolleke.home",
+            "icon": "mdi-message-outline",
+            "color": "#E1A3EE"
+        },
+        {
+            "title": "Grafana",
+            "description": "The open observability platform",
+            "url": "http://grafana.nolleke.home",
+            "icon": "mdi-weather-sunny",
+            "color": "#D9B36B"
+        },
+        {
+            "title": "Home Assistant",
+            "description": "Open source home automation that puts local control and privacy first.",
+            "url": "http://hassio.nolleke.home",
+            "icon": "mdi-home",
+            "color": "#80BFF4"
+        },
+        {
+            "title": "Cloud9",
+            "description": "Web based editor (for Home Assistant config editing)",
+            "url": "http://cloud9.nolleke.home",
+            "icon": "mdi-home-edit",
+            "color": "#80BFF4"
+        },
+        {
+            "title": "Unifi Video",
+            "description": "Web interface to manage Unifi cameras",
+            "url": "http://unifi.nolleke.home",
+            "icon": "mdi-video-vintage",
+            "color": "#0CCFC0"
+        },
+        {
+            "title": "Docker Repository",
+            "description": "My own local docker repository",
+            "url": "http://dockerrepo.nolleke.home",
+            "icon": "mdi-docker",
+            "color": "#A4C46A"
+        },
+        {
+            "title": "Portainer",
+            "description": "Simple docker management web interface",
+            "url": "http://portainer.nolleke.home",
+            "icon": "mdi-docker",
+            "color": "#A4C46A"
+        },
+        {
+            "title": "Scripts4MQTT",
+            "description": "Scripting service for MQTT",
+            "url": "http://scripts4mqtt.nolleke.home",
+            "icon": "mdi-cogs",
+            "color": "#E1A3EE"
+        },
+        {
+            "title": "MQTTBoard",
+            "description": "Simple MQTT web interface",
+            "url": "http://mqttboard.nolleke.home",
+            "icon": "mdi-message-outline",
+            "color": "#E1A3EE"
+        },
+        {
+            "title": "Grafana",
+            "description": "The open observability platform",
+            "url": "http://grafana.nolleke.home",
+            "icon": "mdi-weather-sunny",
+            "color": "#D9B36B"
+        },
+        {
+            "title": "Home Assistant",
+            "description": "Open source home automation that puts local control and privacy first.",
+            "url": "http://hassio.nolleke.home",
+            "icon": "mdi-home",
+            "color": "#80BFF4"
+        },
+        {
+            "title": "Cloud9",
+            "description": "Web based editor (for Home Assistant config editing)",
+            "url": "http://cloud9.nolleke.home",
+            "icon": "mdi-home-edit",
+            "color": "#80BFF4"
+        },
+        {
+            "title": "Unifi Video",
+            "description": "Web interface to manage Unifi cameras",
+            "url": "http://unifi.nolleke.home",
+            "icon": "mdi-video-vintage",
+            "color": "#0CCFC0"
+        },
+        {
+            "title": "Docker Repository",
+            "description": "My own local docker repository",
+            "url": "http://dockerrepo.nolleke.home",
+            "icon": "mdi-docker",
+            "color": "#A4C46A"
+        },
+        {
+            "title": "Portainer",
+            "description": "Simple docker management web interface",
+            "url": "http://portainer.nolleke.home",
+            "icon": "mdi-docker",
+            "color": "#A4C46A"
+        },
+        {
+            "title": "Scripts4MQTT",
+            "description": "Scripting service for MQTT",
+            "url": "http://scripts4mqtt.nolleke.home",
+            "icon": "mdi-cogs",
+            "color": "#E1A3EE"
+        },
+        {
+            "title": "MQTTBoard",
+            "description": "Simple MQTT web interface",
+            "url": "http://mqttboard.nolleke.home",
+            "icon": "mdi-message-outline",
+            "color": "#E1A3EE"
+        },
+        {
+            "title": "Grafana",
+            "description": "The open observability platform",
+            "url": "http://grafana.nolleke.home",
+            "icon": "mdi-weather-sunny",
+            "color": "#D9B36B"
+        },
+        {
+            "title": "Home Assistant",
+            "description": "Open source home automation that puts local control and privacy first.",
+            "url": "http://hassio.nolleke.home",
+            "icon": "mdi-home",
+            "color": "#80BFF4"
+        },
+        {
+            "title": "Cloud9",
+            "description": "Web based editor (for Home Assistant config editing)",
+            "url": "http://cloud9.nolleke.home",
+            "icon": "mdi-home-edit",
+            "color": "#80BFF4"
+        },
+        {
+            "title": "Unifi Video",
+            "description": "Web interface to manage Unifi cameras",
+            "url": "http://unifi.nolleke.home",
+            "icon": "mdi-video-vintage",
+            "color": "#0CCFC0"
+        },
+        {
+            "title": "Docker Repository",
+            "description": "My own local docker repository",
+            "url": "http://dockerrepo.nolleke.home",
+            "icon": "mdi-docker",
+            "color": "#A4C46A"
+        },
+        {
+            "title": "Portainer",
+            "description": "Simple docker management web interface",
+            "url": "http://portainer.nolleke.home",
+            "icon": "mdi-docker",
+            "color": "#A4C46A"
         }
     ]
 }
